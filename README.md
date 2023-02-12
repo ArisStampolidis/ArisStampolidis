@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ArisStampolidis
-- 👀 I’m interested in being a Web developer
-- 🌱 I’m currently learning React
+- 👀 I’m a Web developer
+- 🌱 I’m familiar and know how to use Python, HTML, CSS, Javascript and I'm currently learning React
 - 📫 How to reach me: send me an e-mail at aris_soad2@yahoo.gr
 
 <!---
